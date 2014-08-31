@@ -1,4 +1,13 @@
 *.swp
 *.swo
-./build
-./build/*
+*/__pycache__
+*/__pycache__/*
+build
+build
+build/*
+
+include/
+include/*
+lib
+lib/*
+
